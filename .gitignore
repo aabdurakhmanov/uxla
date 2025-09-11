@@ -6,6 +6,28 @@ __pycache__/
 # C extensions
 *.so
 
+
+*.env.local
+config.json
+secrets.json
+
+*.pid
+*.log
+.docker/
+docker-compose.override.yml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup / temp files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+
+
 # Distribution / packaging
 .Python
 build/

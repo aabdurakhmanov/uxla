@@ -1,0 +1,28 @@
+{
+
+  "uz": {
+    "title": "Kompyuterni masofadan boshqarish",
+    "shutdown": "O'chirish",
+    "restart": "Qayta yoqish",
+    "sleep": "Uyqu holati",
+    "about": "Men haqimda",
+    "bio": "Ushbu loyiha sizga foyda keltiradi degan umiddaman!"
+  },
+  "de": {
+    "title": "Fernzugriff auf den PC",
+    "shutdown": "Herunterfahren",
+    "restart": "Starten",
+    "sleep": "Sleep",
+    "about": "Über mich",
+    "bio":  "Ich hoffe, dieses Projekt wird Ihnen Vorteile bringen!"
+
+  },
+  "en": {
+    "title": "Remote PC Controller",
+    "shutdown": "Shutdown",
+    "restart": "Restart",
+    "sleep": "Sleep",
+    "about": "About me",
+    "bio":  "I hope this project will bring you benefits!"
+  }
+}

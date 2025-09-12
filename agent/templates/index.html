@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="text-center my-5">
+
+    <h1 data-translate="title"></h1>
+    <p data-translate="intro">Loading...</p>
+
+    <div class="my-4">
+        <button class="btn btn-danger mx-2" onclick="window.location.href='/shutdown'" data-translate='shutdown'>Shutdown</button>
+        <button class="btn btn-warning mx-2" onclick="window.location.href='/restart'" data-translate='restart'>Restart</button>
+        <button class="btn btn-info mx-2" onclick="window.location.href='/sleep'" data-translate='sleep'>Sleep</button>
+    </div>
+
+    <a href="/about" class="btn btn-primary mt-3" data-translate='about'>About</a>
+
+</div>
+{% endblock %}

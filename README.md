@@ -1,14 +1,10 @@
-Zo‘r boshlabsan, dostim! 🚀 README fayling professional darajada middle+senior ko‘rinishda chiqishi uchun uni **boyitib**, **texnologiyalarni ikonlari bilan** va **Docker orqali ishlatish bo‘limi** qo‘shib beraman. Quyida sen uchun tayyorlangan professional README draft:
-
----
-
 # 🌐 UXLA | Remote PC Agent – FastAPI Web App
 <p align="center">
 <img src="agent/static/remote-control.gif" alt="Demo GIF" width="250" height="250">
 </p>
 
 🎥 Demo videoni ko‘rish:  
-[<img src="agent/static/video/uxla-demo.jpg" width="800" height="800">](agent/static/video/uxla-demo.mp4)
+[<img src="agent/static/video/uxla-demo.jpg" width="200" height="400">](agent/static/video/uxla-demo.mp4)
 
 
 ## 📖 Loyihaning qisqacha tavsifi

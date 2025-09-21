@@ -4,7 +4,7 @@
 </p>
 
 🎥 Demo videoni ko‘rish:  
-[<img src="agent/static/video/uxla-demo.jpg" width="200" height="400">](agent/static/video/uxla-demo.mp4)
+[<img src="agent/static/video/uxla-demo.jpg" width="400" height="700">](agent/static/video/uxla-demo.mp4)
 
 
 ## 📖 Loyihaning qisqacha tavsifi
